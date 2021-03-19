@@ -41,3 +41,6 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_dbscan.PNG?raw=true)
 ### Agglomerative Clustering:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_h.PNG?raw=true)
+
+### Classificazione:
+
