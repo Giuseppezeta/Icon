@@ -37,10 +37,13 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 ## Risultati:
 ### Clustering K-means:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_kmeans.PNG?raw=true)
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/Kmeans.PNG?raw=true)
 ### Clustering DBSCAN:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_dbscan.PNG?raw=true)
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/dbscan.PNG?raw=true)
 ### Agglomerative Clustering:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_h.PNG?raw=true)
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agglomerative.PNG?raw=true)
 
 ### Classificazione:
 
