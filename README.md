@@ -1,4 +1,3 @@
-# Icon
 # Progetto Ingegneria della conoscenza
 
 Studente: Giuseppe Cesare Zizzo
@@ -7,7 +6,7 @@ Matricola: 678603
 # People Re-Identification by face
 
 ## Introduzione
--
+
 Il sistema sviluppato permette la re-identificazione ovvero un task di face recognition, il task consiste nel riconoscere la presenza di uno stesso individuo in diversi filmati ripresi da un sistema di videosorveglianza. Andremo ad utilizzare alcune delle tecniche studiate durante il corso per creare un sitema che possa affrontare questo task.
 Il sistema di compone di due fasi:
 
