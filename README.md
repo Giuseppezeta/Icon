@@ -35,4 +35,5 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 - ChokePoint Dataset
 
 ## Risultati:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_kmeans.PNG?raw=true)
 
