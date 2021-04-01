@@ -248,9 +248,9 @@ vgg_face_descriptor = Model(inputs=model.layers[0].input, outputs=model.layers[-
 output_folder = 'outputfolder'
 
 """ Tenere commentato se non si vuole fare la face extraction e si vogliono utilizzare descriptors e descriptors1 salvati con pickle
-train = r'\Users\Giuseppe\Desktop\IC\train'
-test = r'\Users\Giuseppe\Desktop\IC\test'
-out2 = r'\Users\Giuseppe\Desktop\outputfolder2'
+train = inserire path training
+test = inserire path test
+out2 = inserire path di output
 """
 
 y_true = [1,2,1,3,3,1,1,4,4,5,6,7,8,8,9,10,11,11,12,12,3,13,3,14,15,16,16,17,18,18,19,19,20,20,7,21,2,7,22,22,11,11,15,21,12,12,23,20,8,24,4,4,22,14,6,24,7,18,13,16,19,19,17,17,5,5,7,15,21,4,16,5,16,16,16,17,19,19,19,13,13,20,19,24,10,18,8,18,22,14,11,17,6,20,14,13,13,21,21,21,8,8,10,22,15,12]
