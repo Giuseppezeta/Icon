@@ -314,15 +314,12 @@ train = r'\Users\Giuseppe\Desktop\IC\train'
 test = r'\Users\Giuseppe\Desktop\IC\test'
 out2 = r'\Users\Giuseppe\Desktop\outputfolder2'
 
-test2 = r'\Users\Giuseppe\Desktop\Testset\t1'
-out3 = r'\Users\Giuseppe\Desktop\outputfolder3'
-
 y_true = [1,2,1,3,3,1,1,4,4,5,6,7,8,8,9,10,11,11,12,12,3,13,3,14,15,16,16,17,18,18,19,19,20,20,7,21,2,7,22,22,11,11,15,21,12,12,23,20,8,24,4,4,22,14,6,24,7,18,13,16,19,19,17,17,5,5,7,15,21,4,16,5,16,16,16,17,19,19,19,13,13,20,19,24,10,18,8,18,22,14,11,17,6,20,14,13,13,21,21,21,8,8,10,22,15,12]
 y_true_test = [1,14,11,11,6,4,4,5,5,19,6,19,3,3,1,1,6,7,7,22,22,15,14,20,20,16,16,17,17,3,18,18,13,13,3,8,8,21,9,10,24,12,12,11,11,15,1,16,12,16,12,5,14,18,4,24,18,22,22,4,20,13,13,21,8,8,5,18,19,19,17,19,15,19,11,12,12,18,17,5,5,17,7,7,7,24,20,17,16,19,19,10,8,10,23,13,8,8,4,22,22,21,2,24,8,7,7,15,13,13,21,21,12,20]
 y_true = asarray(y_true)
 y_true_test = asarray(y_true_test)
 
-"""
+""" Tenere commentata questa parte se non si vuole fare la face extraction che è un processo molto lento
 start = time.time()
 descriptors, img_paths = face_ex(train)
 print("--- %s seconds ---" % (time.time() - start))
@@ -338,7 +335,7 @@ desc1, labels1, paths1 = new_clust(descriptors, y_true,"k-means")
 desc2, labels2, paths2 = new_clust(descriptors, y_true, "h")
 print("--- %s seconds ---" % (time.time() - start))
 
-"""
+""" Tenere commentata questa parte se non si vuole fare la face extraction del secondo set e se non si volgliono salvare i risultati del clustering
 
 pickle.dump( desc, open( "desc.p", "wb" ) )
 pickle.dump( desc1, open( "desc1.p", "wb" ) )
