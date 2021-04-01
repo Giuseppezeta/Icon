@@ -41,7 +41,7 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 ### Clustering con DBSCAN:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_dbscan.PNG?raw=true)
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/dbscan.PNG?raw=true)
-### Agglomerative con Clustering:
+### Agglomerative Clustering:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_h.PNG?raw=true)
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agglomerative.PNG?raw=true)
 
@@ -56,4 +56,26 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/dt_dbscan.PNG?raw=true)
 #### DBSCAN CON NB:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/nb_dbscan.PNG?raw=true)
+
+#### K-MEANS CON KNN:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/knn_kmeans.PNG?raw=true)
+#### K-MEANS CON SVM:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/svm_kmeans.PNG?raw=true)
+#### K-MEANS CON LR:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/LR_kmeans.PNG?raw=true)
+#### K-MEANS CON DECISION TREE:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/dt_kmeans.PNG?raw=true)
+#### K-MEANS CON NB:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/nb_kmeans.PNG?raw=true)
+
+#### CLUSTERING GERARCHICO AGGLOMERATIVO CON KNN:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agg_knn.PNG?raw=true)
+#### CLUSTERING GERARCHICO AGGLOMERATIVO CON SVM:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agg_svm.PNG?raw=true)
+#### CLUSTERING GERARCHICO AGGLOMERATIVO CON LR:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agg_LR.PNG?raw=true)
+#### CLUSTERING GERARCHICO AGGLOMERATIVO CON DECISION TREE:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agg_dt.PNG?raw=true)
+#### CLUSTERING GERARCHICO AGGLOMERATIVO CON NB:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agg_nb.PNG?raw=true)
 
