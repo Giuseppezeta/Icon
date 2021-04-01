@@ -57,6 +57,8 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 #### DBSCAN CON NB:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/nb_dbscan.PNG?raw=true)
 
+---
+
 #### K-MEANS CON KNN:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/knn_kmeans.PNG?raw=true)
 #### K-MEANS CON SVM:
@@ -67,6 +69,8 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/dt_kmeans.PNG?raw=true)
 #### K-MEANS CON NB:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/nb_kmeans.PNG?raw=true)
+
+---
 
 #### CLUSTERING GERARCHICO AGGLOMERATIVO CON KNN:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agg_knn.PNG?raw=true)
