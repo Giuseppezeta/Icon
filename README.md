@@ -29,21 +29,31 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 - Logistic Regression
 - NaiveBayes
 - Alberi
-- SVM
+- SVM(SUPPORT VECTOR MACHINE)
 
 ## Dataset:
 - ChokePoint Dataset
 
 ## Risultati:
-### Clustering K-means:
+### Clustering con K-means:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_kmeans.PNG?raw=true)
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/Kmeans.PNG?raw=true)
-### Clustering DBSCAN:
+### Clustering con DBSCAN:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_dbscan.PNG?raw=true)
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/dbscan.PNG?raw=true)
-### Agglomerative Clustering:
+### Agglomerative con Clustering:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/clust_h.PNG?raw=true)
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agglomerative.PNG?raw=true)
 
 ### Classificazione:
+#### DBSCAN CON KNN:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/knn_dbscan.PNG?raw=true)
+#### DBSCAN CON SVM:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/svm_dbscan.PNG?raw=true)
+#### DBSCAN CON LR:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/LR_dbscan.PNG?raw=true)
+#### DBSCAN CON DECISION TREE:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/dt_dbscan.PNG?raw=true)
+#### DBSCAN CON NB:
+![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/nb_dbscan.PNG?raw=true)
 
