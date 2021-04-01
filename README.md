@@ -29,10 +29,10 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 - Logistic Regression
 - NaiveBayes
 - Alberi
-- SVM(SUPPORT VECTOR MACHINE)
+- SVM(Support Vector Machine)
 
 ## Dataset:
-- ChokePoint Dataset
+- ChokePoint Dataset http://arma.sourceforge.net/chokepoint/
 
 ## Risultati:
 ### Clustering con K-means:
