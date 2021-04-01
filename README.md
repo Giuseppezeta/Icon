@@ -83,3 +83,6 @@ Nella fase di Re_identificazione invece andremo ad usare un classificatore addes
 #### CLUSTERING GERARCHICO AGGLOMERATIVO CON NB:
 ![alt text](https://github.com/Giuseppezeta/Icon/blob/main/Risultati/agg_nb.PNG?raw=true)
 
+LINK PER SCARICARE I PESI DI VGG:
+https://drive.google.com/file/d/1CPSeum3HpopfomUEK1gybeuIVoeJT_Eo/view
+
