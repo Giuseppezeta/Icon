@@ -1,6 +1,7 @@
 # Progetto Ingegneria della conoscenza
 
 Studente: Giuseppe Cesare Zizzo
+
 Matricola: 678603
 
 # People Re-Identification by face
