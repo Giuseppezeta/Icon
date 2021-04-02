@@ -17,6 +17,7 @@ Il sistema sviluppato è basato sulla re-identificazione ovvero un task di face 
 Il sistema si compone di due fasi:
 -	Identificazione
 -	Re-identificazione
+
 Nella fase di Identificazione utilizzeremo il clustering, algoritmo non supervisionato, per raggruppare tutti i volti presenti nei vari filmati che costituiscono una parte del dataset in cui più individui compaiono più volte. I volti verranno quindi raggruppati e sulla base dei gruppi trovati ad ognuno di essi verrà associato un ID. Un gruppo quindi sarà proprio l'insieme delle facce di una stessa persona prese in più telecamere ed in momenti diversi. Nella fase di Re-identificazione invece andremo ad addestrare un classificatore con i volti ed i label trovati nella fase di Identificazione. In seguito, il classificatore sarà testato con dei nuovi volti estratti da nuovi filmati provenienti da una seconda parte del dataset.
 
 ## Algoritmi implementati
